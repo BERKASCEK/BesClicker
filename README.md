@@ -13,8 +13,12 @@ Developed entirely in Python 🐍
 Supported Platforms 💻
 
 → Windows 🪟 10/11 (BesClicker.exe & BesClicker.pyw)
+
 → Linux 🐧 (BesClicker.pyw)
+
 → macOS 🍎 (BesClicker.pyw)
+
+
 
 GUI Settings ⚙️
 
