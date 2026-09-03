@@ -49,11 +49,3 @@ Who Is It For? 🎯
 
 ✔ Anyone looking for a simple yet intelligent auto-clicker for multitasking
 
-📥 Download BesClicker
-
-Latest Windows Release (.exe)
-
-
-Download the latest version of BesClicker for Windows:
-
-➡️ https://berkascek.itch.io/besclicker/download/eyJpZCI6NDIwMjk0MiwiZXhwaXJlcyI6MTc4MzUxMzUzM30%3d%2epWBXMPhY6r0Ej%2b7IIEoSgsqI4es%3d
